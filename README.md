@@ -2,7 +2,7 @@
 ### Transportation Systems Engineer | Micro-Simulation & Road Safety Specialist
 
 <p align="left">
-  <img src="image_GOmt7I.png" width="180" alt="Vishnu S L" style="border-radius: 8px; border: 2px solid #005A9C;">
+  <img src="professional_photo-removebg-preview.png" width="185" alt="Vishnu S L" style="border-radius: 4px; border: 2px solid #005A9C;">
 </p>
 
 Dynamic and certified **Transportation Systems Engineer** combining advanced microscopic traffic simulation expertise with extensive field diagnostics and highway material analysis. Proven track record executing international corridor signal optimization projects, building comprehensive urban transport digital twins, and authoring rigorous Road Safety Audits (RSA).

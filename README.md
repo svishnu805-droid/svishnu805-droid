@@ -1,42 +1,69 @@
 # Hi, I'm Vishnu S L 👋
-### Transportation Systems Engineer | Traffic Signals & ITS Specialist
+### Transportation Systems Engineer | Micro-Simulation & Road Safety Specialist
 
-Dedicated **Transportation Systems Engineer** with an **M.Tech in Transportation Engineering** and 4 years of professional experience. Specializing in micro-simulation modeling, intelligent transportation systems (ITS), infrastructure design, and traffic operations management. Currently engineering advanced traffic solutions at **Arcadis**.
+<p align="left">
+  <img src="image_GOmt7I.png" width="180" alt="Vishnu S L" style="border-radius: 8px; border: 2px solid #005A9C;">
+</p>
 
-Globally open to any office location with flexible working hours.
+Dynamic and certified **Transportation Systems Engineer** combining advanced microscopic traffic simulation expertise with extensive field diagnostics and highway material analysis. Proven track record executing international corridor signal optimization projects, building comprehensive urban transport digital twins, and authoring rigorous Road Safety Audits (RSA).
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-| Category | Tools, Frameworks & Core Competencies |
-| :--- | :--- |
-| **Traffic Simulation** | PTV VISSIM, SUMO, Synchro, SimTraffic |
-| **GIS & Mapping** | ArcGIS Roads and Highways, QGIS |
-| **Data & Analytics** | Python, Microsoft Power BI, pgAdmin (PostgreSQL) |
-| **Design & Drafting** | Autodesk AutoCAD Civil 3D, AutoCAD |
-| **Surveying & Field** | Total Station, DGPS, Drone Surveying, Loop Detectors |
-| **Material Testing** | CBR, Marshall Stability, Geotechnical Soil Testing |
+### 🚦 Traffic Simulation & Operations
+![PTV VISSIM](https://shields.io)
+![SUMO](https://shields.io)
+![Synchro](https://shields.io)
+
+### 🌍 Geospatial Analysis & Civil Design
+![ArcGIS](https://shields.io)
+![QGIS](https://shields.io)
+![AutoCAD](https://shields.io)
+
+### 📊 Data, Databases & Analytics
+![Python](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Power BI](https://shields.io)
 
 ---
 
-## 🏗️ Core Expertise & Key Project Highlights
+## 💼 Professional Experience & Milestones
 
-*   **International Signal Optimization:** Modeled and optimized complex metropolitan corridors for networks in **Atlanta & Toronto** using Synchro and SimTraffic to successfully reduce vehicle delays.
-*   **Transit Signal Priority (TSP):** Implemented TSP systems across urban corridors to reduce transit delays and improve bus schedule reliability, including targeted frameworks like BPRS priority.
-*   **Digital Twin Development:** Engineered a comprehensive transport network digital twin model for **Bengaluru** to simulate real-time traffic scenarios and enhance large-scale infrastructure planning.
-*   **Road Safety Audits (RSA):** Experienced in organizing field data, site photography, and drafting operational RSA reports under strict IRC / MORTH guidelines.
+### 🔹 Transportation Systems Engineer — Arcadis / IBI Group
+*November 2025 – Present*
+*   **Corridor Signal Optimization:** Modeled, calibrated, and optimized multi-intersection metropolitan corridors for high-density networks in **Atlanta and Toronto** using Synchro and SimTraffic.
+*   **Smart Mobility Digital Twins:** Key contributor to the development of the **Bengaluru Urban Traffic Digital Twin**, analyzing real-time network interactions, vehicle platooning, and capacity constraints.
+*   **Transit Signal Priority:** Modeled and tested detailed TSP rulesets to eliminate transit vehicle bottlenecks and streamline schedule headways.
+
+### 🔹 Assistant Road Safety Engineer — Accrete Consulting Engineers (P) Ltd.
+*October 2025 – November 2025*
+*   **Road Safety Audits (RSA):** Spearheaded comprehensive field safety diagnostic tracking, accident blackspot identification, and drafted compliance-ready RSA project records under IRC/MoRTH standards.
+*   **Traffic Management Schemes:** Engineered geometric traffic diversion layouts and detour frameworks for active corridor construction phases.
+
+### 🔹 Geotechnical Engineering Assistant — College of Engineering Trivandrum (CET)
+*January 2021 – December 2021*
+*   **Consultancy Operations:** Supervised physical soil exploration drilling rigs, managed field CBR testing configurations on roads, and handled deep cone penetration workflows.
+
+---
+
+## 🔬 Targeted Research & Internships
+
+### 📁 Traffic Conditions Evaluation — Kerala Highway Research Institute (KHRI)
+*Academic Internship (June 2024 – July 2024)*
+*   Conducted traffic modeling assessments for the critical roadway segment extending from **Kazhakoottam Junction to AJ Hospital** below the elevated highway corridor.
+*   **Pavement Material Engineering:** Performed foundational laboratory checks across highway material testing division parameters, executing intermittent bituminous mixture evaluations at **KSCSTE - NATPAC**.
 
 ---
 
 ## 🎓 Education & Credentials
 
-*   **M.Tech in Transportation Engineering** | Rajiv Gandhi Institute of Technology, Kottayam (2023-2025)
-*   **B.Tech in Civil Engineering** | PRIST University, Thanjavur (2018-2022)
+*   **M.Tech in Transportation Engineering** | Rajiv Gandhi Institute of Technology, Kottayam (2023 – 2025)
+*   **B.Tech in Civil Engineering (First Class)** | PRIST Deemed to be University, Thanjavur (2018 – 2022)
 
 ---
 
 ## 📫 Let's Connect!
 
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com5220421bb/?skipRedirect=true)
 *   **Email:** svishnu805@gmail.com
+*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com5220421bb/?skipRedirect=true)
